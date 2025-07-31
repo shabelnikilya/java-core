@@ -9,6 +9,7 @@
     <version>1.0</version>
     <modules>
         <module>io</module>
+        <module>async</module>
     </modules>
     <packaging>pom</packaging>
     <name>Java core</name>

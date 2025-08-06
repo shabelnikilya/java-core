@@ -10,6 +10,7 @@
     <modules>
         <module>io</module>
         <module>async</module>
+        <module>rx-java</module>
     </modules>
     <packaging>pom</packaging>
     <name>Java core</name>
